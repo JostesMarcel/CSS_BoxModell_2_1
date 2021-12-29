@@ -6,13 +6,15 @@ h1 {
     padding: 5px;
     margin: auto;
 }
+
 p {
     border: 2px solid red;
     width: 380px;
     text-align: center;
     padding: 10px;
-    margin: 10px 360px;
+    margin: 10px auto;
 }
+
 h2 {
     border: 1px solid purple;
     border-radius: 15px;
@@ -28,15 +30,14 @@ ol, ul {
     width: 380px;
     text-align: ;
     padding: 15px 10px;
-    margin:10px 360px;
+    margin:10px auto;
     list-style-position: inside;
-    text-decoration: 2px underline green;
-    
 }
 
 li {
     margin: 0px 10px;
-    text-align: initial ;
+    text-align: initial;
+    border-bottom: 1px solid green;
 }
 
 h3 {
